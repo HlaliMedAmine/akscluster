@@ -49,9 +49,9 @@ akscluster/
 
 
 
-![Azure Portal Screenshot](azure-portal.png)
+![Azure Portal Screenshot](diagram/azure-portal.png)
 
-![Azure Portal Screenshot](diagram.png)
+![Azure Portal Screenshot](diagram/diagram.png)
 
 ---
 
